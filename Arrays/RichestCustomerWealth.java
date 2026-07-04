@@ -1,8 +1,8 @@
 /*
 LeetCode 1672
 Richest Customer Wealth
-Time : O(n)
-Space : O(n)
+Time : O(m x n)
+Space : O(1)
 */
 
 class Solution {
