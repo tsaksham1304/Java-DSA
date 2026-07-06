@@ -1,5 +1,5 @@
 /*
-LeetCode 485
+LeetCode 26
 Remove Duplicates from Sorted Array
 Time : O(n)
 Space : O(1)
